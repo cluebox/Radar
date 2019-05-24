@@ -1,0 +1,10 @@
+D:\Dotnet project\Radar_parsing\Radar_parsing\bin\Debug\Radar_parsing.exe.config
+D:\Dotnet project\Radar_parsing\Radar_parsing\bin\Debug\Radar_parsing.exe
+D:\Dotnet project\Radar_parsing\Radar_parsing\bin\Debug\Radar_parsing.pdb
+D:\Dotnet project\Radar_parsing\Radar_parsing\bin\Debug\SpssLib.dll
+D:\Dotnet project\Radar_parsing\Radar_parsing\bin\Debug\SpssLib.xml
+D:\Dotnet project\Radar_parsing\Radar_parsing\obj\Debug\Radar_parsing.csprojAssemblyReference.cache
+D:\Dotnet project\Radar_parsing\Radar_parsing\obj\Debug\Radar_parsing.csproj.CoreCompileInputs.cache
+D:\Dotnet project\Radar_parsing\Radar_parsing\obj\Debug\Radar_parsing.csproj.CopyComplete
+D:\Dotnet project\Radar_parsing\Radar_parsing\obj\Debug\Radar_parsing.exe
+D:\Dotnet project\Radar_parsing\Radar_parsing\obj\Debug\Radar_parsing.pdb
