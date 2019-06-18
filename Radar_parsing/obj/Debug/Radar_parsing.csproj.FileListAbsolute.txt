@@ -8,3 +8,13 @@ D:\Dotnet project\Radar_parsing\Radar_parsing\obj\Debug\Radar_parsing.csproj.Cor
 D:\Dotnet project\Radar_parsing\Radar_parsing\obj\Debug\Radar_parsing.csproj.CopyComplete
 D:\Dotnet project\Radar_parsing\Radar_parsing\obj\Debug\Radar_parsing.exe
 D:\Dotnet project\Radar_parsing\Radar_parsing\obj\Debug\Radar_parsing.pdb
+D:\GitHub\Repo\Radar\Radar_parsing\bin\Debug\Radar_parsing.exe.config
+D:\GitHub\Repo\Radar\Radar_parsing\bin\Debug\Radar_parsing.exe
+D:\GitHub\Repo\Radar\Radar_parsing\bin\Debug\Radar_parsing.pdb
+D:\GitHub\Repo\Radar\Radar_parsing\bin\Debug\SpssLib.dll
+D:\GitHub\Repo\Radar\Radar_parsing\bin\Debug\SpssLib.xml
+D:\GitHub\Repo\Radar\Radar_parsing\obj\Debug\Radar_parsing.csprojAssemblyReference.cache
+D:\GitHub\Repo\Radar\Radar_parsing\obj\Debug\Radar_parsing.csproj.CoreCompileInputs.cache
+D:\GitHub\Repo\Radar\Radar_parsing\obj\Debug\Radar_parsing.csproj.CopyComplete
+D:\GitHub\Repo\Radar\Radar_parsing\obj\Debug\Radar_parsing.exe
+D:\GitHub\Repo\Radar\Radar_parsing\obj\Debug\Radar_parsing.pdb
